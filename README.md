@@ -1,1 +1,1 @@
-# Databasse-Games-Store
+# Database-Games-Store
